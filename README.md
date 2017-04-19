@@ -1,9 +1,14 @@
-# api documentation for  [react-google-maps (v4.11.0)](https://tomchentw.github.io/react-google-maps/)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-google-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-google-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-google-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-google-maps)
+# npmdoc-react-google-maps
+
+#### api documentation for  [react-google-maps (v4.11.0)](https://tomchentw.github.io/react-google-maps/)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-google-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-google-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-google-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-google-maps)
+
 #### React.js Google Maps integration component
 
-[![NPM](https://nodei.co/npm/react-google-maps.png?downloads=true)](https://www.npmjs.com/package/react-google-maps)
+[![NPM](https://nodei.co/npm/react-google-maps.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-google-maps)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-google-maps_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-google-maps/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-google-maps/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "tomchentw",
-        "email": "developer@tomchentw.com",
         "url": "https://github.com/tomchentw"
     },
     "bugs": {
@@ -30,7 +34,6 @@
     "contributors": [
         {
             "name": "tomchentw",
-            "email": "developer@tomchentw.com",
             "url": "https://github.com/tomchentw"
         }
     ],
@@ -104,8 +107,7 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "tomchentw",
-            "email": "developer@tomchentw.com"
+            "name": "tomchentw"
         }
     ],
     "name": "react-google-maps",
@@ -114,7 +116,6 @@
         "react": "^0.14.0 || ^15.0.0",
         "react-dom": "^0.14.0 || ^15.0.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/tomchentw/react-google-maps.git"
@@ -133,237 +134,6 @@
     },
     "version": "4.11.0"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-google-maps](#apidoc.module.react-google-maps)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>Circle ()](#apidoc.element.react-google-maps.Circle)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>DirectionsRenderer ()](#apidoc.element.react-google-maps.DirectionsRenderer)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>DrawingManager ()](#apidoc.element.react-google-maps.DrawingManager)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>GoogleMap ()](#apidoc.element.react-google-maps.GoogleMap)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>GoogleMapLoader ()](#apidoc.element.react-google-maps.GoogleMapLoader)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>InfoWindow ()](#apidoc.element.react-google-maps.InfoWindow)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>KmlLayer ()](#apidoc.element.react-google-maps.KmlLayer)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>Marker ()](#apidoc.element.react-google-maps.Marker)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>OverlayView ()](#apidoc.element.react-google-maps.OverlayView)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>Polygon ()](#apidoc.element.react-google-maps.Polygon)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>Polyline ()](#apidoc.element.react-google-maps.Polyline)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>Rectangle ()](#apidoc.element.react-google-maps.Rectangle)
-1.  [function <span class="apidocSignatureSpan">react-google-maps.</span>SearchBox ()](#apidoc.element.react-google-maps.SearchBox)
-
-
-
-# <a name="apidoc.module.react-google-maps"></a>[module react-google-maps](#apidoc.module.react-google-maps)
-
-#### <a name="apidoc.element.react-google-maps.Circle"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>Circle ()](#apidoc.element.react-google-maps.Circle)
-- description and source-code
-```javascript
-function Circle() {
-  _classCallCheck(this, Circle);
-
-  _get(Object.getPrototypeOf(Circle.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.DirectionsRenderer"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>DirectionsRenderer ()](#apidoc.element.react-google-maps.DirectionsRenderer)
-- description and source-code
-```javascript
-function DirectionsRenderer() {
-  _classCallCheck(this, DirectionsRenderer);
-
-  _get(Object.getPrototypeOf(DirectionsRenderer.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.DrawingManager"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>DrawingManager ()](#apidoc.element.react-google-maps.DrawingManager)
-- description and source-code
-```javascript
-function DrawingManager() {
-  _classCallCheck(this, DrawingManager);
-
-  _get(Object.getPrototypeOf(DrawingManager.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.GoogleMap"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>GoogleMap ()](#apidoc.element.react-google-maps.GoogleMap)
-- description and source-code
-```javascript
-function GoogleMap() {
-  _classCallCheck(this, GoogleMap);
-
-  _get(Object.getPrototypeOf(GoogleMap.prototype), "constructor", this).apply(this, arguments);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.GoogleMapLoader"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>GoogleMapLoader ()](#apidoc.element.react-google-maps.GoogleMapLoader)
-- description and source-code
-```javascript
-function GoogleMapLoader() {
-  _classCallCheck(this, GoogleMapLoader);
-
-  _get(Object.getPrototypeOf(GoogleMapLoader.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {
-    map: null
-  };
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.InfoWindow"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>InfoWindow ()](#apidoc.element.react-google-maps.InfoWindow)
-- description and source-code
-```javascript
-function InfoWindow() {
-  _classCallCheck(this, InfoWindow);
-
-  _get(Object.getPrototypeOf(InfoWindow.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.KmlLayer"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>KmlLayer ()](#apidoc.element.react-google-maps.KmlLayer)
-- description and source-code
-```javascript
-function KmlLayer() {
-  _classCallCheck(this, KmlLayer);
-
-  _get(Object.getPrototypeOf(KmlLayer.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.Marker"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>Marker ()](#apidoc.element.react-google-maps.Marker)
-- description and source-code
-```javascript
-function Marker() {
-  _classCallCheck(this, Marker);
-
-  _get(Object.getPrototypeOf(Marker.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.OverlayView"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>OverlayView ()](#apidoc.element.react-google-maps.OverlayView)
-- description and source-code
-```javascript
-function OverlayView() {
-  _classCallCheck(this, OverlayView);
-
-  _get(Object.getPrototypeOf(OverlayView.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.Polygon"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>Polygon ()](#apidoc.element.react-google-maps.Polygon)
-- description and source-code
-```javascript
-function Polygon() {
-  _classCallCheck(this, Polygon);
-
-  _get(Object.getPrototypeOf(Polygon.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.Polyline"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>Polyline ()](#apidoc.element.react-google-maps.Polyline)
-- description and source-code
-```javascript
-function Polyline() {
-  _classCallCheck(this, Polyline);
-
-  _get(Object.getPrototypeOf(Polyline.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.Rectangle"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>Rectangle ()](#apidoc.element.react-google-maps.Rectangle)
-- description and source-code
-```javascript
-function Rectangle() {
-  _classCallCheck(this, Rectangle);
-
-  _get(Object.getPrototypeOf(Rectangle.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.react-google-maps.SearchBox"></a>[function <span class="apidocSignatureSpan">react-google-maps.</span>SearchBox ()](#apidoc.element.react-google-maps.SearchBox)
-- description and source-code
-```javascript
-function SearchBox() {
-  _classCallCheck(this, SearchBox);
-
-  _get(Object.getPrototypeOf(SearchBox.prototype), "constructor", this).apply(this, arguments);
-
-  this.state = {};
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
