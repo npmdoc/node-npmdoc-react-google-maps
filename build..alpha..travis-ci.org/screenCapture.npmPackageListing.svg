@@ -1,138 +1,138 @@
 <svg height="2158" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2158" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 16:30:10 +0000   380454 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 16:30:10 +0000    29682 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 16:30:10 +0000     1101 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 16:30:10 +0000     7477 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 16:30:10 +0000     5271 bytes  lib/Circle.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 16:30:10 +0000     5327 bytes  lib/DirectionsRenderer.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 16:30:10 +0000     4947 bytes  lib/DrawingManager.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 16:30:10 +0000     8519 bytes  lib/GoogleMap.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 16:30:10 +0000     5144 bytes  lib/GoogleMapLoader.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 16:30:10 +0000     4913 bytes  lib/InfoWindow.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 16:30:10 +0000     5123 bytes  lib/KmlLayer.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 16:30:10 +0000     6510 bytes  lib/Marker.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 16:30:10 +0000     5411 bytes  lib/OverlayView.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 16:30:10 +0000     5079 bytes  lib/Polygon.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 16:30:10 +0000     5001 bytes  lib/Polyline.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 16:30:10 +0000     5156 bytes  lib/Rectangle.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 16:30:10 +0000     6146 bytes  lib/SearchBox.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 16:30:10 +0000     4635 bytes  lib/_Skeleton.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 16:30:10 +0000      292 bytes  lib/__mocks__/google.maps.event.mock.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 16:30:10 +0000     1529 bytes  lib/__mocks__/google.maps.mock.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 16:30:10 +0000     3157 bytes  lib/__tests__/GoogleMap.spec.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 16:30:10 +0000      210 bytes  lib/__tests__/__setup__.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 16:30:10 +0000     1025 bytes  lib/__tests__/index.spec.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 16:30:10 +0000     4936 bytes  lib/addons/InfoBox.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 16:30:10 +0000     8585 bytes  lib/addons/MarkerClusterer.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 16:30:10 +0000     7249 bytes  lib/addons/addonsCreators/InfoBoxCreator.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-19 16:30:10 +0000     9426 bytes  lib/addons/addonsCreators/MarkerClustererCreator\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 16:31:12 +0000   380454 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 16:31:12 +0000    29682 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 16:31:12 +0000     1101 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 16:31:12 +0000     7477 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 16:31:12 +0000     5271 bytes  lib/Circle.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 16:31:12 +0000     5327 bytes  lib/DirectionsRenderer.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 16:31:12 +0000     4947 bytes  lib/DrawingManager.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 16:31:12 +0000     8519 bytes  lib/GoogleMap.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 16:31:12 +0000     5144 bytes  lib/GoogleMapLoader.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 16:31:12 +0000     4913 bytes  lib/InfoWindow.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 16:31:12 +0000     5123 bytes  lib/KmlLayer.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 16:31:12 +0000     6510 bytes  lib/Marker.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 16:31:12 +0000     5411 bytes  lib/OverlayView.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 16:31:12 +0000     5079 bytes  lib/Polygon.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 16:31:12 +0000     5001 bytes  lib/Polyline.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 16:31:12 +0000     5156 bytes  lib/Rectangle.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 16:31:12 +0000     6146 bytes  lib/SearchBox.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 16:31:12 +0000     4635 bytes  lib/_Skeleton.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 16:31:12 +0000      292 bytes  lib/__mocks__/google.maps.event.mock.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 16:31:12 +0000     1529 bytes  lib/__mocks__/google.maps.mock.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 16:31:12 +0000     3157 bytes  lib/__tests__/GoogleMap.spec.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 16:31:12 +0000      210 bytes  lib/__tests__/__setup__.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 16:31:12 +0000     1025 bytes  lib/__tests__/index.spec.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 16:31:12 +0000     4936 bytes  lib/addons/InfoBox.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 16:31:12 +0000     8585 bytes  lib/addons/MarkerClusterer.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 16:31:12 +0000     7249 bytes  lib/addons/addonsCreators/InfoBoxCreator.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 16:31:12 +0000     9426 bytes  lib/addons/addonsCreators/MarkerClustererCreator\</tspan>
 <tspan x="10" y="458">.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-19 16:30:10 +0000      316 bytes  lib/addons/addonsEventLists/InfoBoxEventList.js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-19 16:30:10 +0000      315 bytes  lib/addons/addonsEventLists/MarkerClustererEvent\</tspan>
+<tspan x="10" y="474"> 27.  2017-04-19 16:31:12 +0000      316 bytes  lib/addons/addonsEventLists/InfoBoxEventList.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-19 16:31:12 +0000      315 bytes  lib/addons/addonsEventLists/MarkerClustererEvent\</tspan>
 <tspan x="10" y="506">List.js</tspan>
-<tspan x="10" y="522"> 29.  2017-04-19 16:30:10 +0000     4285 bytes  lib/async/ScriptjsGoogleMap.js</tspan>
-<tspan x="10" y="538"> 30.  2017-04-19 16:30:10 +0000     6934 bytes  lib/async/ScriptjsLoader.js</tspan>
-<tspan x="10" y="554"> 31.  2017-04-19 16:30:10 +0000     6376 bytes  lib/creators/CircleCreator.js</tspan>
-<tspan x="10" y="570"> 32.  2017-04-19 16:30:10 +0000     7076 bytes  lib/creators/DirectionsRendererCreator.js</tspan>
-<tspan x="10" y="586"> 33.  2017-04-19 16:30:10 +0000     6240 bytes  lib/creators/DrawingManagerCreator.js</tspan>
-<tspan x="10" y="602"> 34.  2017-04-19 16:30:10 +0000     6918 bytes  lib/creators/GoogleMapHolder.js</tspan>
-<tspan x="10" y="618"> 35.  2017-04-19 16:30:10 +0000     7062 bytes  lib/creators/InfoWindowCreator.js</tspan>
-<tspan x="10" y="634"> 36.  2017-04-19 16:30:10 +0000     6853 bytes  lib/creators/KmlLayerCreator.js</tspan>
-<tspan x="10" y="650"> 37.  2017-04-19 16:30:10 +0000     8675 bytes  lib/creators/MarkerCreator.js</tspan>
-<tspan x="10" y="666"> 38.  2017-04-19 16:30:10 +0000    10363 bytes  lib/creators/OverlayViewCreator.js</tspan>
-<tspan x="10" y="682"> 39.  2017-04-19 16:30:10 +0000     6408 bytes  lib/creators/PolygonCreator.js</tspan>
-<tspan x="10" y="698"> 40.  2017-04-19 16:30:10 +0000     6334 bytes  lib/creators/PolylineCreator.js</tspan>
-<tspan x="10" y="714"> 41.  2017-04-19 16:30:10 +0000     6398 bytes  lib/creators/RectangleCreator.js</tspan>
-<tspan x="10" y="730"> 42.  2017-04-19 16:30:10 +0000     6711 bytes  lib/creators/SearchBoxCreator.js</tspan>
-<tspan x="10" y="746"> 43.  2017-04-19 16:30:10 +0000     5995 bytes  lib/creators/_SkeletonCreator.js</tspan>
-<tspan x="10" y="762"> 44.  2017-04-19 16:30:10 +0000      480 bytes  lib/eventLists/CircleEventList.js</tspan>
-<tspan x="10" y="778"> 45.  2017-04-19 16:30:10 +0000      349 bytes  lib/eventLists/DirectionsRendererEventList.js</tspan>
-<tspan x="10" y="794"> 46.  2017-04-19 16:30:10 +0000      438 bytes  lib/eventLists/DrawingManagerEventList.js</tspan>
-<tspan x="10" y="810"> 47.  2017-04-19 16:30:10 +0000      580 bytes  lib/eventLists/GoogleMapEventList.js</tspan>
-<tspan x="10" y="826"> 48.  2017-04-19 16:30:10 +0000      402 bytes  lib/eventLists/InfoWindowEventList.js</tspan>
-<tspan x="10" y="842"> 49.  2017-04-19 16:30:10 +0000      371 bytes  lib/eventLists/KmlLayerEventList.js</tspan>
-<tspan x="10" y="858"> 50.  2017-04-19 16:30:10 +0000      635 bytes  lib/eventLists/MarkerEventList.js</tspan>
-<tspan x="10" y="874"> 51.  2017-04-19 16:30:10 +0000      445 bytes  lib/eventLists/PolygonEventList.js</tspan>
-<tspan x="10" y="890"> 52.  2017-04-19 16:30:10 +0000      446 bytes  lib/eventLists/PolylineEventList.js</tspan>
-<tspan x="10" y="906"> 53.  2017-04-19 16:30:10 +0000      465 bytes  lib/eventLists/RectangleEventList.js</tspan>
-<tspan x="10" y="922"> 54.  2017-04-19 16:30:10 +0000      336 bytes  lib/eventLists/SearchBoxEventList.js</tspan>
-<tspan x="10" y="938"> 55.  2017-04-19 16:30:10 +0000     1415 bytes  lib/index.js</tspan>
-<tspan x="10" y="954"> 56.  2017-04-19 16:30:10 +0000     1820 bytes  lib/utils/__tests__/index.spec.js</tspan>
-<tspan x="10" y="970"> 57.  2017-04-19 16:30:10 +0000      255 bytes  lib/utils/addDefaultPrefix.js</tspan>
-<tspan x="10" y="986"> 58.  2017-04-19 16:30:10 +0000     2584 bytes  lib/utils/componentLifecycleDecorator.js</tspan>
-<tspan x="10" y="1002"> 59.  2017-04-19 16:30:10 +0000     1204 bytes  lib/utils/composeOptions.js</tspan>
-<tspan x="10" y="1018"> 60.  2017-04-19 16:30:10 +0000      624 bytes  lib/utils/controlledOrDefault.js</tspan>
-<tspan x="10" y="1034"> 61.  2017-04-19 16:30:10 +0000      585 bytes  lib/utils/defaultPropsCreator.js</tspan>
-<tspan x="10" y="1050"> 62.  2017-04-19 16:30:10 +0000     1253 bytes  lib/utils/eventHandlerCreator.js</tspan>
-<tspan x="10" y="1066"> 63.  2017-04-19 16:30:10 +0000     1507 bytes  lib/utils/index.js</tspan>
-<tspan x="10" y="1082"> 64.  2017-04-19 16:30:10 +0000     1214 bytes  lib/utils/makeUrl.js</tspan>
-<tspan x="10" y="1098"> 65.  2017-04-19 16:30:10 +0000     1207 bytes  lib/utils/setContentForOptionalReactElement.js</tspan>
-<tspan x="10" y="1114"> 66.  2017-04-19 16:30:10 +0000     4404 bytes  package.json</tspan>
-<tspan x="10" y="1130"> 67.  2017-04-19 16:30:10 +0000     1831 bytes  src/Circle.js</tspan>
-<tspan x="10" y="1146"> 68.  2017-04-19 16:30:10 +0000     1998 bytes  src/DirectionsRenderer.js</tspan>
-<tspan x="10" y="1162"> 69.  2017-04-19 16:30:10 +0000     1768 bytes  src/DrawingManager.js</tspan>
-<tspan x="10" y="1178"> 70.  2017-04-19 16:30:10 +0000     4101 bytes  src/GoogleMap.js</tspan>
-<tspan x="10" y="1194"> 71.  2017-04-19 16:30:10 +0000     1834 bytes  src/GoogleMapLoader.js</tspan>
-<tspan x="10" y="1210"> 72.  2017-04-19 16:30:10 +0000     1673 bytes  src/InfoWindow.js</tspan>
-<tspan x="10" y="1226"> 73.  2017-04-19 16:30:10 +0000     1772 bytes  src/KmlLayer.js</tspan>
-<tspan x="10" y="1242"> 74.  2017-04-19 16:30:10 +0000     2567 bytes  src/Marker.js</tspan>
-<tspan x="10" y="1258"> 75.  2017-04-19 16:30:10 +0000     1948 bytes  src/OverlayView.js</tspan>
-<tspan x="10" y="1274"> 76.  2017-04-19 16:30:10 +0000     1742 bytes  src/Polygon.js</tspan>
-<tspan x="10" y="1290"> 77.  2017-04-19 16:30:10 +0000     1710 bytes  src/Polyline.js</tspan>
-<tspan x="10" y="1306"> 78.  2017-04-19 16:30:10 +0000     1853 bytes  src/Rectangle.js</tspan>
-<tspan x="10" y="1322"> 79.  2017-04-19 16:30:10 +0000     2432 bytes  src/SearchBox.js</tspan>
-<tspan x="10" y="1338"> 80.  2017-04-19 16:30:10 +0000     1513 bytes  src/_Skeleton.js</tspan>
-<tspan x="10" y="1354"> 81.  2017-04-19 16:30:10 +0000      142 bytes  src/__mocks__/google.maps.event.mock.js</tspan>
-<tspan x="10" y="1370"> 82.  2017-04-19 16:30:10 +0000      188 bytes  src/__mocks__/google.maps.mock.js</tspan>
-<tspan x="10" y="1386"> 83.  2017-04-19 16:30:10 +0000     2125 bytes  src/__tests__/GoogleMap.spec.js</tspan>
-<tspan x="10" y="1402"> 84.  2017-04-19 16:30:10 +0000      187 bytes  src/__tests__/__setup__.js</tspan>
-<tspan x="10" y="1418"> 85.  2017-04-19 16:30:10 +0000      730 bytes  src/__tests__/index.spec.js</tspan>
-<tspan x="10" y="1434"> 86.  2017-04-19 16:30:10 +0000     1621 bytes  src/addons/InfoBox.js</tspan>
-<tspan x="10" y="1450"> 87.  2017-04-19 16:30:10 +0000     3272 bytes  src/addons/MarkerClusterer.js</tspan>
-<tspan x="10" y="1466"> 88.  2017-04-19 16:30:10 +0000     3155 bytes  src/addons/addonsCreators/InfoBoxCreator.js</tspan>
-<tspan x="10" y="1482"> 89.  2017-04-19 16:30:10 +0000     4696 bytes  src/addons/addonsCreators/MarkerClustererCreator\</tspan>
+<tspan x="10" y="522"> 29.  2017-04-19 16:31:12 +0000     4285 bytes  lib/async/ScriptjsGoogleMap.js</tspan>
+<tspan x="10" y="538"> 30.  2017-04-19 16:31:12 +0000     6934 bytes  lib/async/ScriptjsLoader.js</tspan>
+<tspan x="10" y="554"> 31.  2017-04-19 16:31:12 +0000     6376 bytes  lib/creators/CircleCreator.js</tspan>
+<tspan x="10" y="570"> 32.  2017-04-19 16:31:12 +0000     7076 bytes  lib/creators/DirectionsRendererCreator.js</tspan>
+<tspan x="10" y="586"> 33.  2017-04-19 16:31:12 +0000     6240 bytes  lib/creators/DrawingManagerCreator.js</tspan>
+<tspan x="10" y="602"> 34.  2017-04-19 16:31:12 +0000     6918 bytes  lib/creators/GoogleMapHolder.js</tspan>
+<tspan x="10" y="618"> 35.  2017-04-19 16:31:12 +0000     7062 bytes  lib/creators/InfoWindowCreator.js</tspan>
+<tspan x="10" y="634"> 36.  2017-04-19 16:31:12 +0000     6853 bytes  lib/creators/KmlLayerCreator.js</tspan>
+<tspan x="10" y="650"> 37.  2017-04-19 16:31:12 +0000     8675 bytes  lib/creators/MarkerCreator.js</tspan>
+<tspan x="10" y="666"> 38.  2017-04-19 16:31:12 +0000    10363 bytes  lib/creators/OverlayViewCreator.js</tspan>
+<tspan x="10" y="682"> 39.  2017-04-19 16:31:12 +0000     6408 bytes  lib/creators/PolygonCreator.js</tspan>
+<tspan x="10" y="698"> 40.  2017-04-19 16:31:12 +0000     6334 bytes  lib/creators/PolylineCreator.js</tspan>
+<tspan x="10" y="714"> 41.  2017-04-19 16:31:12 +0000     6398 bytes  lib/creators/RectangleCreator.js</tspan>
+<tspan x="10" y="730"> 42.  2017-04-19 16:31:12 +0000     6711 bytes  lib/creators/SearchBoxCreator.js</tspan>
+<tspan x="10" y="746"> 43.  2017-04-19 16:31:12 +0000     5995 bytes  lib/creators/_SkeletonCreator.js</tspan>
+<tspan x="10" y="762"> 44.  2017-04-19 16:31:12 +0000      480 bytes  lib/eventLists/CircleEventList.js</tspan>
+<tspan x="10" y="778"> 45.  2017-04-19 16:31:12 +0000      349 bytes  lib/eventLists/DirectionsRendererEventList.js</tspan>
+<tspan x="10" y="794"> 46.  2017-04-19 16:31:12 +0000      438 bytes  lib/eventLists/DrawingManagerEventList.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-19 16:31:12 +0000      580 bytes  lib/eventLists/GoogleMapEventList.js</tspan>
+<tspan x="10" y="826"> 48.  2017-04-19 16:31:12 +0000      402 bytes  lib/eventLists/InfoWindowEventList.js</tspan>
+<tspan x="10" y="842"> 49.  2017-04-19 16:31:12 +0000      371 bytes  lib/eventLists/KmlLayerEventList.js</tspan>
+<tspan x="10" y="858"> 50.  2017-04-19 16:31:12 +0000      635 bytes  lib/eventLists/MarkerEventList.js</tspan>
+<tspan x="10" y="874"> 51.  2017-04-19 16:31:12 +0000      445 bytes  lib/eventLists/PolygonEventList.js</tspan>
+<tspan x="10" y="890"> 52.  2017-04-19 16:31:12 +0000      446 bytes  lib/eventLists/PolylineEventList.js</tspan>
+<tspan x="10" y="906"> 53.  2017-04-19 16:31:12 +0000      465 bytes  lib/eventLists/RectangleEventList.js</tspan>
+<tspan x="10" y="922"> 54.  2017-04-19 16:31:12 +0000      336 bytes  lib/eventLists/SearchBoxEventList.js</tspan>
+<tspan x="10" y="938"> 55.  2017-04-19 16:31:12 +0000     1415 bytes  lib/index.js</tspan>
+<tspan x="10" y="954"> 56.  2017-04-19 16:31:12 +0000     1820 bytes  lib/utils/__tests__/index.spec.js</tspan>
+<tspan x="10" y="970"> 57.  2017-04-19 16:31:12 +0000      255 bytes  lib/utils/addDefaultPrefix.js</tspan>
+<tspan x="10" y="986"> 58.  2017-04-19 16:31:12 +0000     2584 bytes  lib/utils/componentLifecycleDecorator.js</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-19 16:31:12 +0000     1204 bytes  lib/utils/composeOptions.js</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-19 16:31:12 +0000      624 bytes  lib/utils/controlledOrDefault.js</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-19 16:31:12 +0000      585 bytes  lib/utils/defaultPropsCreator.js</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-19 16:31:12 +0000     1253 bytes  lib/utils/eventHandlerCreator.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-19 16:31:12 +0000     1507 bytes  lib/utils/index.js</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-19 16:31:12 +0000     1214 bytes  lib/utils/makeUrl.js</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-19 16:31:12 +0000     1207 bytes  lib/utils/setContentForOptionalReactElement.js</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-19 16:31:12 +0000     4404 bytes  package.json</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-19 16:31:12 +0000     1831 bytes  src/Circle.js</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-19 16:31:12 +0000     1998 bytes  src/DirectionsRenderer.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-19 16:31:12 +0000     1768 bytes  src/DrawingManager.js</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-19 16:31:12 +0000     4101 bytes  src/GoogleMap.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-19 16:31:12 +0000     1834 bytes  src/GoogleMapLoader.js</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-19 16:31:12 +0000     1673 bytes  src/InfoWindow.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-19 16:31:12 +0000     1772 bytes  src/KmlLayer.js</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-19 16:31:12 +0000     2567 bytes  src/Marker.js</tspan>
+<tspan x="10" y="1258"> 75.  2017-04-19 16:31:12 +0000     1948 bytes  src/OverlayView.js</tspan>
+<tspan x="10" y="1274"> 76.  2017-04-19 16:31:12 +0000     1742 bytes  src/Polygon.js</tspan>
+<tspan x="10" y="1290"> 77.  2017-04-19 16:31:12 +0000     1710 bytes  src/Polyline.js</tspan>
+<tspan x="10" y="1306"> 78.  2017-04-19 16:31:12 +0000     1853 bytes  src/Rectangle.js</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-19 16:31:12 +0000     2432 bytes  src/SearchBox.js</tspan>
+<tspan x="10" y="1338"> 80.  2017-04-19 16:31:12 +0000     1513 bytes  src/_Skeleton.js</tspan>
+<tspan x="10" y="1354"> 81.  2017-04-19 16:31:12 +0000      142 bytes  src/__mocks__/google.maps.event.mock.js</tspan>
+<tspan x="10" y="1370"> 82.  2017-04-19 16:31:12 +0000      188 bytes  src/__mocks__/google.maps.mock.js</tspan>
+<tspan x="10" y="1386"> 83.  2017-04-19 16:31:12 +0000     2125 bytes  src/__tests__/GoogleMap.spec.js</tspan>
+<tspan x="10" y="1402"> 84.  2017-04-19 16:31:12 +0000      187 bytes  src/__tests__/__setup__.js</tspan>
+<tspan x="10" y="1418"> 85.  2017-04-19 16:31:12 +0000      730 bytes  src/__tests__/index.spec.js</tspan>
+<tspan x="10" y="1434"> 86.  2017-04-19 16:31:12 +0000     1621 bytes  src/addons/InfoBox.js</tspan>
+<tspan x="10" y="1450"> 87.  2017-04-19 16:31:12 +0000     3272 bytes  src/addons/MarkerClusterer.js</tspan>
+<tspan x="10" y="1466"> 88.  2017-04-19 16:31:12 +0000     3155 bytes  src/addons/addonsCreators/InfoBoxCreator.js</tspan>
+<tspan x="10" y="1482"> 89.  2017-04-19 16:31:12 +0000     4696 bytes  src/addons/addonsCreators/MarkerClustererCreator\</tspan>
 <tspan x="10" y="1498">.js</tspan>
-<tspan x="10" y="1514"> 90.  2017-04-19 16:30:10 +0000      207 bytes  src/addons/addonsEventLists/InfoBoxEventList.js</tspan>
-<tspan x="10" y="1530"> 91.  2017-04-19 16:30:10 +0000      206 bytes  src/addons/addonsEventLists/MarkerClustererEvent\</tspan>
+<tspan x="10" y="1514"> 90.  2017-04-19 16:31:12 +0000      207 bytes  src/addons/addonsEventLists/InfoBoxEventList.js</tspan>
+<tspan x="10" y="1530"> 91.  2017-04-19 16:31:12 +0000      206 bytes  src/addons/addonsEventLists/MarkerClustererEvent\</tspan>
 <tspan x="10" y="1546">List.js</tspan>
-<tspan x="10" y="1562"> 92.  2017-04-19 16:30:10 +0000     1011 bytes  src/async/ScriptjsGoogleMap.js</tspan>
-<tspan x="10" y="1578"> 93.  2017-04-19 16:30:10 +0000     2669 bytes  src/async/ScriptjsLoader.js</tspan>
-<tspan x="10" y="1594"> 94.  2017-04-19 16:30:10 +0000     2566 bytes  src/creators/CircleCreator.js</tspan>
-<tspan x="10" y="1610"> 95.  2017-04-19 16:30:10 +0000     2999 bytes  src/creators/DirectionsRendererCreator.js</tspan>
-<tspan x="10" y="1626"> 96.  2017-04-19 16:30:10 +0000     2383 bytes  src/creators/DrawingManagerCreator.js</tspan>
-<tspan x="10" y="1642"> 97.  2017-04-19 16:30:10 +0000     3054 bytes  src/creators/GoogleMapHolder.js</tspan>
-<tspan x="10" y="1658"> 98.  2017-04-19 16:30:10 +0000     2983 bytes  src/creators/InfoWindowCreator.js</tspan>
-<tspan x="10" y="1674"> 99.  2017-04-19 16:30:10 +0000     2847 bytes  src/creators/KmlLayerCreator.js</tspan>
-<tspan x="10" y="1690">100.  2017-04-19 16:30:10 +0000     4253 bytes  src/creators/MarkerCreator.js</tspan>
-<tspan x="10" y="1706">101.  2017-04-19 16:30:10 +0000     6802 bytes  src/creators/OverlayViewCreator.js</tspan>
-<tspan x="10" y="1722">102.  2017-04-19 16:30:10 +0000     2579 bytes  src/creators/PolygonCreator.js</tspan>
-<tspan x="10" y="1738">103.  2017-04-19 16:30:10 +0000     2514 bytes  src/creators/PolylineCreator.js</tspan>
-<tspan x="10" y="1754">104.  2017-04-19 16:30:10 +0000     2554 bytes  src/creators/RectangleCreator.js</tspan>
-<tspan x="10" y="1770">105.  2017-04-19 16:30:10 +0000     2573 bytes  src/creators/SearchBoxCreator.js</tspan>
-<tspan x="10" y="1786">106.  2017-04-19 16:30:10 +0000     2241 bytes  src/creators/_SkeletonCreator.js</tspan>
-<tspan x="10" y="1802">107.  2017-04-19 16:30:10 +0000      387 bytes  src/eventLists/CircleEventList.js</tspan>
-<tspan x="10" y="1818">108.  2017-04-19 16:30:10 +0000      232 bytes  src/eventLists/DirectionsRendererEventList.js</tspan>
-<tspan x="10" y="1834">109.  2017-04-19 16:30:10 +0000      331 bytes  src/eventLists/DrawingManagerEventList.js</tspan>
-<tspan x="10" y="1850">110.  2017-04-19 16:30:10 +0000      499 bytes  src/eventLists/GoogleMapEventList.js</tspan>
-<tspan x="10" y="1866">111.  2017-04-19 16:30:10 +0000      293 bytes  src/eventLists/InfoWindowEventList.js</tspan>
-<tspan x="10" y="1882">112.  2017-04-19 16:30:10 +0000      258 bytes  src/eventLists/KmlLayerEventList.js</tspan>
-<tspan x="10" y="1898">113.  2017-04-19 16:30:10 +0000      558 bytes  src/eventLists/MarkerEventList.js</tspan>
-<tspan x="10" y="1914">114.  2017-04-19 16:30:10 +0000      348 bytes  src/eventLists/PolygonEventList.js</tspan>
-<tspan x="10" y="1930">115.  2017-04-19 16:30:10 +0000      349 bytes  src/eventLists/PolylineEventList.js</tspan>
-<tspan x="10" y="1946">116.  2017-04-19 16:30:10 +0000      370 bytes  src/eventLists/RectangleEventList.js</tspan>
-<tspan x="10" y="1962">117.  2017-04-19 16:30:10 +0000      219 bytes  src/eventLists/SearchBoxEventList.js</tspan>
-<tspan x="10" y="1978">118.  2017-04-19 16:30:10 +0000      703 bytes  src/index.js</tspan>
-<tspan x="10" y="1994">119.  2017-04-19 16:30:10 +0000     1114 bytes  src/utils/__tests__/index.spec.js</tspan>
-<tspan x="10" y="2010">120.  2017-04-19 16:30:10 +0000      113 bytes  src/utils/addDefaultPrefix.js</tspan>
-<tspan x="10" y="2026">121.  2017-04-19 16:30:10 +0000     2333 bytes  src/utils/componentLifecycleDecorator.js</tspan>
-<tspan x="10" y="2042">122.  2017-04-19 16:30:10 +0000      623 bytes  src/utils/composeOptions.js</tspan>
-<tspan x="10" y="2058">123.  2017-04-19 16:30:10 +0000      298 bytes  src/utils/controlledOrDefault.js</tspan>
-<tspan x="10" y="2074">124.  2017-04-19 16:30:10 +0000      259 bytes  src/utils/defaultPropsCreator.js</tspan>
-<tspan x="10" y="2090">125.  2017-04-19 16:30:10 +0000     1104 bytes  src/utils/eventHandlerCreator.js</tspan>
-<tspan x="10" y="2106">126.  2017-04-19 16:30:10 +0000      894 bytes  src/utils/index.js</tspan>
-<tspan x="10" y="2122">127.  2017-04-19 16:30:10 +0000      829 bytes  src/utils/makeUrl.js</tspan>
-<tspan x="10" y="2138">128.  2017-04-19 16:30:10 +0000      912 bytes  src/utils/setContentForOptionalReactElement.js</tspan>
+<tspan x="10" y="1562"> 92.  2017-04-19 16:31:12 +0000     1011 bytes  src/async/ScriptjsGoogleMap.js</tspan>
+<tspan x="10" y="1578"> 93.  2017-04-19 16:31:12 +0000     2669 bytes  src/async/ScriptjsLoader.js</tspan>
+<tspan x="10" y="1594"> 94.  2017-04-19 16:31:12 +0000     2566 bytes  src/creators/CircleCreator.js</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-19 16:31:12 +0000     2999 bytes  src/creators/DirectionsRendererCreator.js</tspan>
+<tspan x="10" y="1626"> 96.  2017-04-19 16:31:12 +0000     2383 bytes  src/creators/DrawingManagerCreator.js</tspan>
+<tspan x="10" y="1642"> 97.  2017-04-19 16:31:12 +0000     3054 bytes  src/creators/GoogleMapHolder.js</tspan>
+<tspan x="10" y="1658"> 98.  2017-04-19 16:31:12 +0000     2983 bytes  src/creators/InfoWindowCreator.js</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-19 16:31:12 +0000     2847 bytes  src/creators/KmlLayerCreator.js</tspan>
+<tspan x="10" y="1690">100.  2017-04-19 16:31:12 +0000     4253 bytes  src/creators/MarkerCreator.js</tspan>
+<tspan x="10" y="1706">101.  2017-04-19 16:31:12 +0000     6802 bytes  src/creators/OverlayViewCreator.js</tspan>
+<tspan x="10" y="1722">102.  2017-04-19 16:31:12 +0000     2579 bytes  src/creators/PolygonCreator.js</tspan>
+<tspan x="10" y="1738">103.  2017-04-19 16:31:12 +0000     2514 bytes  src/creators/PolylineCreator.js</tspan>
+<tspan x="10" y="1754">104.  2017-04-19 16:31:12 +0000     2554 bytes  src/creators/RectangleCreator.js</tspan>
+<tspan x="10" y="1770">105.  2017-04-19 16:31:12 +0000     2573 bytes  src/creators/SearchBoxCreator.js</tspan>
+<tspan x="10" y="1786">106.  2017-04-19 16:31:12 +0000     2241 bytes  src/creators/_SkeletonCreator.js</tspan>
+<tspan x="10" y="1802">107.  2017-04-19 16:31:12 +0000      387 bytes  src/eventLists/CircleEventList.js</tspan>
+<tspan x="10" y="1818">108.  2017-04-19 16:31:12 +0000      232 bytes  src/eventLists/DirectionsRendererEventList.js</tspan>
+<tspan x="10" y="1834">109.  2017-04-19 16:31:12 +0000      331 bytes  src/eventLists/DrawingManagerEventList.js</tspan>
+<tspan x="10" y="1850">110.  2017-04-19 16:31:12 +0000      499 bytes  src/eventLists/GoogleMapEventList.js</tspan>
+<tspan x="10" y="1866">111.  2017-04-19 16:31:12 +0000      293 bytes  src/eventLists/InfoWindowEventList.js</tspan>
+<tspan x="10" y="1882">112.  2017-04-19 16:31:12 +0000      258 bytes  src/eventLists/KmlLayerEventList.js</tspan>
+<tspan x="10" y="1898">113.  2017-04-19 16:31:12 +0000      558 bytes  src/eventLists/MarkerEventList.js</tspan>
+<tspan x="10" y="1914">114.  2017-04-19 16:31:12 +0000      348 bytes  src/eventLists/PolygonEventList.js</tspan>
+<tspan x="10" y="1930">115.  2017-04-19 16:31:12 +0000      349 bytes  src/eventLists/PolylineEventList.js</tspan>
+<tspan x="10" y="1946">116.  2017-04-19 16:31:12 +0000      370 bytes  src/eventLists/RectangleEventList.js</tspan>
+<tspan x="10" y="1962">117.  2017-04-19 16:31:12 +0000      219 bytes  src/eventLists/SearchBoxEventList.js</tspan>
+<tspan x="10" y="1978">118.  2017-04-19 16:31:12 +0000      703 bytes  src/index.js</tspan>
+<tspan x="10" y="1994">119.  2017-04-19 16:31:12 +0000     1114 bytes  src/utils/__tests__/index.spec.js</tspan>
+<tspan x="10" y="2010">120.  2017-04-19 16:31:12 +0000      113 bytes  src/utils/addDefaultPrefix.js</tspan>
+<tspan x="10" y="2026">121.  2017-04-19 16:31:12 +0000     2333 bytes  src/utils/componentLifecycleDecorator.js</tspan>
+<tspan x="10" y="2042">122.  2017-04-19 16:31:12 +0000      623 bytes  src/utils/composeOptions.js</tspan>
+<tspan x="10" y="2058">123.  2017-04-19 16:31:12 +0000      298 bytes  src/utils/controlledOrDefault.js</tspan>
+<tspan x="10" y="2074">124.  2017-04-19 16:31:12 +0000      259 bytes  src/utils/defaultPropsCreator.js</tspan>
+<tspan x="10" y="2090">125.  2017-04-19 16:31:12 +0000     1104 bytes  src/utils/eventHandlerCreator.js</tspan>
+<tspan x="10" y="2106">126.  2017-04-19 16:31:12 +0000      894 bytes  src/utils/index.js</tspan>
+<tspan x="10" y="2122">127.  2017-04-19 16:31:12 +0000      829 bytes  src/utils/makeUrl.js</tspan>
+<tspan x="10" y="2138">128.  2017-04-19 16:31:12 +0000      912 bytes  src/utils/setContentForOptionalReactElement.js</tspan>
 </text>
 </svg>
